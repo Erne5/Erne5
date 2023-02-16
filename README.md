@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Erne5/Erne5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 ¿Quién soy? 💡
+Soy Desarrollador Web Full Stack, incursionando desde el 2021 en el mundo IT para poder aplicar mis conocimientos con mucha aptitud. 
 
-Here are some ideas to get you started:
+ 🔋¿Por qué yo? 🔋
+Porque soy responsable y comprometido, con actitud positiva, y con mucha capacidad de adaptación para cualquier equipo de trabajo y aportar de la mejor manera lo mejor de mi. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estas frente a una persona segura de sus conocimientos técnicos. Alguien honesto, que siempre piensa en el objetivo común del equipo. Alguien proactivo, en constante sed de nuevos conocimientos, siempre dispuesto a escuchar a los demás, y que va agotar todos los recursos posibles en buscar la forma de solucionar cualquier problema que se presente. 
+
+💻SKILLS💻
+Front-end: HTML | CSS | JavaScript | ReactJS | Redux 
+Back-end: NodeJS | Express | Sequelize.
+Databases: MySQL | PostgreSQL.
+Manejo de GIT y Scrum.
+
+🔎 Ante cualquier consulta: 🔍
+✉️ - erne24.88@gmail.com
+GitHub - https://github.com/Erne5
+LinkedIn - https://www.linkedin.com/in/erne5/
